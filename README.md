@@ -8,16 +8,16 @@ De plus, comment fournir une vue claire de l’avancement général pour chaque 
 ## Objectifs
 Développer une application web permettant :
 
-De créer et gérer des projets et leurs tâches associées
+-De créer et gérer des projets et leurs tâches associées
 
-De classifier les tâches par catégorie
+-De classifier les tâches par catégorie
 
-D’attribuer des tâches aux utilisateurs
+-D’attribuer des tâches aux utilisateurs
 
-De modifier l’état d’une tâche dynamiquement via AJAX
+-De modifier l’état d’une tâche dynamiquement via AJAX
 
-De visualiser ses propres tâches dans une section dédiée (Mes tâches)
+-De visualiser ses propres tâches dans une section dédiée (Mes tâches)
 
-D’afficher des statistiques de progression des projets sous forme de graphiques (via Chart.js)
+-D’afficher des statistiques de progression des projets sous forme de graphiques (via Chart.js)
 ##  Diagramme de classe
 ![Image](https://github.com/user-attachments/assets/be2d3fa8-1ff8-404b-8c58-be7db5a1d01c)
