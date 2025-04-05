@@ -20,4 +20,4 @@ Développer une application web permettant :
 
 -D’afficher des statistiques de progression des projets sous forme de graphiques (via Chart.js)
 ##  Diagramme de classe
-
+![Image](https://github.com/user-attachments/assets/34196dc8-e966-433f-9ebc-4fa8ee7d7e55)
