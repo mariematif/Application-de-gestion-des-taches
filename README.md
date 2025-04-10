@@ -19,6 +19,18 @@ Développer une application web permettant :
 -De visualiser ses propres tâches dans une section dédiée (Mes tâches)
 
 -D’afficher des statistiques de progression des projets sous forme de graphiques (via Chart.js)
+##  Structure du projet
+Packages :
+
+entities : contient les classes User, Projet, Tache, CategorieTache
+
+dao / dao2 : contient les DAO standards et une DAO générique (AbstractDao)
+
+config : configuration Hibernate (hibernate.cfg.xml)
+
+util : HibernateUtil.java pour la gestion de session
+
+test : classes de test (TestCreation, TestUpdateTache, TestProjetCategorie, TestMapped, TestDeleteTache)
 ##  Diagramme de classe
 ![Image](https://github.com/user-attachments/assets/ea0f9c66-5cbb-482f-89a6-1f9789785070)
 ## modèle conceptuel de la base généré
