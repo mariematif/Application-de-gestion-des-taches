@@ -32,7 +32,7 @@ util : HibernateUtil.java pour la gestion de session
 
 test : classes de test (TestCreation, TestUpdateTache, TestProjetCategorie, TestMapped, TestDeleteTache)
 ##  Diagramme de classe
-![Image](https://github.com/user-attachments/assets/ea0f9c66-5cbb-482f-89a6-1f9789785070)
+
 ## modèle conceptuel de la base généré
-<img width="752" alt="Image" src="https://github.com/user-attachments/assets/7cb5c116-c835-43c1-b84e-2f1a346f92ec" />
+
 
