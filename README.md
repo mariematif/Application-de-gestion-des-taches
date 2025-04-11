@@ -40,16 +40,16 @@ test : classes de test (TestCreation, TestUpdateTache, TestProjetCategorie, Test
 ---
 ## Tests fonctionnels
 ###  Test de création
-<img width="736" alt="Image" src="https://github.com/user-attachments/assets/10743a6d-72d9-4eb9-aabe-009459af3bcc" />
+
 
 ###  Test de suppression
-<img width="731" alt="Image" src="https://github.com/user-attachments/assets/cc6c50eb-1de2-42de-ad13-7ad0bda44b36" />
+
 
 ###  Test de mapping JPA
-<img width="736" alt="Image" src="https://github.com/user-attachments/assets/7869ea5e-2660-4842-b216-5055953c0fa3" />
+
 
 ###  Test projet / catégorie
-<img width="723" alt="Image" src="https://github.com/user-attachments/assets/e3c83dda-3cf5-44b7-8b43-71e6f7c12482" />
+
 
 ###  Test de mise à jour
-<img width="722" alt="Image" src="https://github.com/user-attachments/assets/31e68d1c-104c-4699-a28b-79dc61769f4e" />
+
