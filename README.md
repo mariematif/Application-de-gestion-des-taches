@@ -52,4 +52,4 @@ test : classes de test (TestCreation, TestUpdateTache, TestProjetCategorie, Test
 <img width="736" alt="Image" src="https://github.com/user-attachments/assets/d5dedca7-336c-4742-ab11-3789e4ffb362" />
 
 ###  Test de mise à jour
-
+<img width="731" alt="Image" src="https://github.com/user-attachments/assets/7c1139d6-a325-4595-a697-50cdc87c55de" />
