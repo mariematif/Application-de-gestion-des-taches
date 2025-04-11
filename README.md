@@ -45,7 +45,7 @@ test : classes de test (TestCreation, TestUpdateTache, TestProjetCategorie, Test
 ###  Test de suppression
 
 
-###  Test de mapping JPA
+###  Test de mapping 
 
 
 ###  Test projet / catégorie
