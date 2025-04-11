@@ -35,7 +35,7 @@ test : classes de test (TestCreation, TestUpdateTache, TestProjetCategorie, Test
 ![Image](https://github.com/user-attachments/assets/32934973-9024-4a10-8a5e-74a5f3290693)
 ---
 ## modèle conceptuel de la base généré
-
+<img width="736" alt="Image" src="https://github.com/user-attachments/assets/486f669c-91f1-44a6-8387-16ee806fc0b6" />
 
 ---
 ## Tests fonctionnels
