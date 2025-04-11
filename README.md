@@ -43,7 +43,7 @@ test : classes de test (TestCreation, TestUpdateTache, TestProjetCategorie, Test
 <img width="722" alt="Image" src="https://github.com/user-attachments/assets/cc43cd67-a6c3-4683-a82a-4d6bd9d437e9" />
 
 ###  Test de suppression
-
+<img width="730" alt="Image" src="https://github.com/user-attachments/assets/3b5f365b-d366-4295-9b69-062373a33ae8" />
 
 ###  Test de mapping 
 
